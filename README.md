@@ -1,4 +1,4 @@
-# 新西兰IT内推圈 工作申请及分布 NZ IT Jobs - Apply and Post a job
+# 新西兰IT内推圈 工作申请及发布 NZ IT Jobs - Apply and Post a job
 
 # Check the latest jobs:
 https://nzitjobs.co.nz/jobs/

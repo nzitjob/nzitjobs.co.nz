@@ -18,6 +18,7 @@ Notes: No registration is need for job application.
 ![alt text](post.png "post new job")
 
 # Manage jobs and applications
+Notes: Only approved users have manage permission
 1. Login
 2. On top of the screen, choose "新西兰IT内推圈" -> Dashboard
 

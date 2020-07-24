@@ -11,7 +11,7 @@ Notes: No registration is need for job application.
 # How to post a job:
 1. Register on the website
 2. Send your contact details according to the instructions from the registration email.
-3. Once approved, you can log in
+3. Once registration is approved, log in
 4. On top of the screen, choose "+" -> Job
 
 ![alt text](post.png "post new job")

@@ -1,7 +1,7 @@
 # 新西兰IT内推圈 工作申请及发布 NZ IT Jobs - Apply and Post a job
 
 # Check the latest jobs:
-https://nzitjobs.co.nz/jobs/
+https://nzitjobs.co.nz/job/
 
 # How to apply for a job:
 Notes: No registration is required for job application.

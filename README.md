@@ -5,7 +5,7 @@ https://nzitjobs.co.nz/jobs/
 
 # How to apply for a job:
 Notes: No registration is need for job application.
-1. Choose More Details 
+1. Click a job from Job listings 
 2. You can see "Apply for this position"
 
 # How to post a job:

@@ -17,6 +17,8 @@ Notes: No registration is required for job application.
 
 ![alt text](post.png "post new job")
 
+If want to post a job but don't want to register, use this form: https://forms.gle/EgsYKHHfDio7me297
+
 # Manage jobs and applications
 Notes: Only approved users have permission
 1. Login

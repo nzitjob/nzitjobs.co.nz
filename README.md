@@ -9,6 +9,7 @@ https://nzitjobs.co.nz/job/
 3. Fill in all the required sections and Submit
 
 NOTES: 
+
 If you apply for a job from Weekly Job Digest, please specify the job title and location in the application form
 
 If you want to apply for a job via Internal Referral but it's not listed, you can submit your application through https://nzitjobs.co.nz/job/cv-portal/, and please include the original job URL.

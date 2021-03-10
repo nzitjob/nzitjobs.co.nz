@@ -6,7 +6,7 @@ https://nzitjobs.co.nz/job/
 # How to apply for a job:
 Notes: No registration is required for job application.
 1. Click a job from Job listings 
-2. You can see "Apply via Internal Referral"
+2. You can see "*Apply via Internal Referral*"
 3. Fill in all the required sections and Submit
 
 # How to post a job:
